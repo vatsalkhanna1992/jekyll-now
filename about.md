@@ -6,7 +6,7 @@ permalink: /about/
 
 I am from Lucknow, Uttar Pradesh, have been working as a web developer since 2015. My technical skills includes Drupal, PHP, Javascript, jQuery, HTML, CSS and React.
 
-I am a Drupal Engineer at Axelerant Technologies based out in Bangalore, India. I worked as a System Engineer for Tata Consultancy Services for 3 years.
+I am a Drupal Engineer at [Axelerant Technologies](https://www.axelerant.com) based out in Bangalore, India. I worked as a System Engineer for Tata Consultancy Services for 3 years.
 
 I am a open source enthusiast. An active community member with contributions on providing patches for various issues in Drupal. I have also attended many Drupal meetups.
 
