@@ -26,6 +26,6 @@ Check the box and you'll get another option for mapping the field type, like thi
 ![_config.yml]({{ site.baseurl }}/images/field-type.png)
 Just select the respective field and save.
 
-Similarly, do the same thing for other fields too, and check the webform. That's all.
+Similarly, do the same thing for other fields too, and check the webform.
 
 Now try typing in the "Address" field, you'll get suggestions and once you select any suggestion, it will fill out all the other fields - City, State, ZIP code etc.
