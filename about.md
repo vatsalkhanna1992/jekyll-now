@@ -8,7 +8,7 @@ I am from Lucknow, Uttar Pradesh, have been working as a web developer since 201
 
 I am a Drupal Engineer at [Axelerant Technologies](https://www.axelerant.com) based out in Bangalore, India. I worked as a System Engineer in Tata Consultancy Services for 3 years.
 
-I am a open source enthusiast. An active community member with contributions on providing patches for various issues in Drupal. Also, have been involved in attending many Drupal meetups.
+I am an open source enthusiast. An active community member with contributions on providing patches for various issues in Drupal. Also, have been involved in attending many Drupal meetups.
 
 I love coding, you can see it by visiting my [Github](https://github.com/vatsalkhanna1992) profile. Also, check out my qualifications and past working history [here]({{ site.baseurl }}/files/cv.pdf). 
 
