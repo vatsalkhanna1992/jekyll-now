@@ -3,7 +3,8 @@ layout: post
 title: Creating custom modal with form in Drupal 8
 ---
 A modal in Drupal 8 can be triggered by just adding this single line:
-(<a class="use-ajax" data-dialog-type="modal" href="/registration">Register</a>)
+
+![_config.yml]({{ site.baseurl }}/images/single-line-command.png)
 
 #### Important: Make sure to add drupal core library 'core/drupal.dialog.ajax' to call ajax modal to the page triggering the modal.
 
