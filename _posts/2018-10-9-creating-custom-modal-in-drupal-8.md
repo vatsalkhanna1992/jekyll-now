@@ -33,14 +33,16 @@ Create a Form:
 ![_config.yml]({{ site.baseurl }}/images/form.png)
 
 ### Step 4: Call form and OpenModalDialogCommand()
-Once the form is created, call this form through controller using "$form = \Drupal::formBuilder()->getForm()". Now create modal by creating object of OpenModalDialogCommand() inside ajax response object.
+Once the form is created, call this form through controller using
+"$form = \Drupal::formBuilder()->getForm()".
+Now create modal by creating object of OpenModalDialogCommand() inside ajax response.
 
 ![_config.yml]({{ site.baseurl }}/images/modal.png)
 
 This will create a modal and set its width. Then, its wrapped into AJAX response object.
 
 ### Step 5: Create block to trigger modal
-Now, create create a block, which contains a button to trigger modal.
+Now, create a block, which contains a button to trigger modal.
 
 ![_config.yml]({{ site.baseurl }}/images/block.png)
 
