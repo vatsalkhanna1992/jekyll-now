@@ -5,7 +5,7 @@ title: Creating custom modal with webform in Drupal 8
 A modal in Drupal 8 can be triggered by just adding this single line:
 <a class="use-ajax" data-dialog-type="modal" href="/registration">Register</a>
 
-#Important: Make sure to add drupal core library 'core/drupal.dialog.ajax' to call ajax modal to the page triggering the modal.
+### Important: Make sure to add drupal core library 'core/drupal.dialog.ajax' to call ajax modal to the page triggering the modal.
 
 Before start learning how to create custom modal, checkout the following repository:
 [https://github.com/vatsalkhanna1992/custom_modal](https://github.com/vatsalkhanna1992/custom_modal)
@@ -43,4 +43,4 @@ Now, create create a block, which contains a button to trigger modal.
 
 ![_config.yml]({{ site.baseurl }}/images/block.png)
 
-# Make sure, 'core/drupal.dialog.ajax' library is attached to the block. This will trigger the response as modal.
+### Make sure, 'core/drupal.dialog.ajax' library is attached to the block. This will trigger the response as modal.
