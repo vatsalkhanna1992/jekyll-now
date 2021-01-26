@@ -10,7 +10,7 @@ I am a Drupal Engineer at [Axelerant Technologies](https://www.axelerant.com) ba
 
 I am an open source enthusiast. An active community member with contributions on providing patches for various issues in Drupal. Also, have been involved in attending many Drupal meetups.
 
-I love coding, you can see it by visiting my [Github](https://github.com/vatsalkhanna1992) profile. Also, check out my qualifications and past working history [here]({{ site.baseurl }}/files/cv.pdf). 
+I love coding, you can see it by visiting my [Github](https://github.com/vatsalkhanna1992) profile. Also, check out my qualifications and working history [here]({{ site.baseurl }}/files/cv.pdf).
 
 I am a foodie and like listening music, bike riding (specially going on trips), hanging out with friends, singing, watching movies, cooking and swimming.
 
